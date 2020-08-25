@@ -4,7 +4,7 @@
 }
 
 .title {
-  background: url('images/rounded-square.png') no-repeat;
+  background: url('/images/rounded-square.png');
   font: Consolas;
   color: black
 }
