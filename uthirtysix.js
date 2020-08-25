@@ -1,1 +1,1 @@
-document.getElementById('title');
+document.getElementById('title').innerHTML = "U36";
