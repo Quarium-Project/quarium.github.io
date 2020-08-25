@@ -1,10 +1,9 @@
 .titlebar {
   font: Menlo;
-  background-color: #0000;
+  background-color: #af1919;
 }
 
-#title {
-  color: #0000;
+.title {
+  background: url(images/rounded-square.png) no-repeat;
   font: Consolas;
-  background: quarium.github.io/images/rounded-square.png;
 }
