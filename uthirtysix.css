@@ -1,11 +1,10 @@
 .titlebar {
   font: Menlo;
-  background-color: #3892;
+  background-color: #0000;
 }
 
 #title {
-  color: #0f94;
+  color: #0000;
   font: Consolas;
   background: quarium.github.io/images/rounded-square.png;
-  // https://www.google.com/url?sa=i&url=https%3A%2F%2Fpro.academind.com%2Fp%2Fdeno-the-complete-introduction&psig=AOvVaw0MKXvYETMgySbYF-n7Mn_m&ust=1598467700587000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCTvLiCt-sCFQAAAAAdAAAAABAD
 }
