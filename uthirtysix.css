@@ -5,6 +5,8 @@
 
 div title {
   background: url('/images/rounded-square.png');
+}
+div title / h1{
   font: Menlo;
   color: black
 }
